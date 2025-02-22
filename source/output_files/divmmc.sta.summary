@@ -1,0 +1,41 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'clock'
+Slack : -11.300
+TNS   : -306.700
+
+Type  : Setup 'mreq'
+Slack : -9.800
+TNS   : -19.400
+
+Type  : Setup 'A[0]'
+Slack : -9.800
+TNS   : -9.800
+
+Type  : Hold 'clock'
+Slack : -0.700
+TNS   : -2.800
+
+Type  : Hold 'mreq'
+Slack : -0.200
+TNS   : -0.200
+
+Type  : Hold 'A[0]'
+Slack : 6.700
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'clock'
+Slack : -3.500
+TNS   : -203.000
+
+Type  : Minimum Pulse Width 'A[0]'
+Slack : -3.500
+TNS   : -70.000
+
+Type  : Minimum Pulse Width 'mreq'
+Slack : -3.500
+TNS   : -14.000
+
+------------------------------------------------------------

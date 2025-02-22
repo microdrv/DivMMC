@@ -1,0 +1,6 @@
+
+State Machine - |divmmc|transState
+Name transState.state_bit_1 transState.state_bit_0 
+transState.IDLE 0 0 
+transState.SAMPLE 0 1 
+transState.TRANSMIT 1 0 
